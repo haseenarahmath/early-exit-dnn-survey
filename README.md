@@ -11,7 +11,8 @@ This repository accompanies our ACM Computing Surveys article
 **“Early-Exit Deep Neural Network — A Comprehensive Survey.”**  
 
 The work unifies **150+ studies** on early-exit and dynamic-inference neural networks, analyzing their **architectures**, **training strategies**, **exit policies**, **application domains**, and **open challenges and future directions**.  
-It provides a consolidated **taxonomy**, an **evolution timeline (2012–2024)**, and a structured discussion on how early-exit mechanisms contribute to **efficient and interpretable AI**.
+It provides a consolidated **taxonomy** and a structured discussion on how early-exit mechanisms enable **efficient, interpretable, and anytime AI**.
+
 
 ---
 
